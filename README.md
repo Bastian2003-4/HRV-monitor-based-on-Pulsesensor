@@ -67,4 +67,5 @@ Dynamic Threshold Algorithm
 HRV formula
 
 **Known Issues**
+
 Although current algorithms have been optimised for motion artefacts, they are mainly for small movements such as breathing. It does not help with large movements such as arm movements and will need to be optimised in future versions.
