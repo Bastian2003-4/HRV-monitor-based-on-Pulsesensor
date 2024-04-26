@@ -17,10 +17,9 @@ Wiring Diagram
 
 Real-time data mode
 
-PC Visualiser: available at https://github.com/WorldFamousElectronics/PulseSensor_Amped_Processing_Visualizer
-
 ![image](https://github.com/Bastian2003-4/HRV-monitor-based-on-Pulsesensor/assets/115745326/bb0772b8-d366-4b02-84f5-839d8a5a3712)
 
+PC Visualiser: available at https://github.com/WorldFamousElectronics/PulseSensor_Amped_Processing_Visualizer
 
 Aggregated result mode
 
