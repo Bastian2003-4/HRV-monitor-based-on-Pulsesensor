@@ -55,6 +55,7 @@ Step6:
 Open Visualiser according to the Visualiser tutorial, Place  finger on the sensor to get data.
 
 **More technical details**
+
 The project uses dynamic thresholds to identify heartbeats and uses the SDNN standard to calculate HRV
 
 ![image](https://github.com/Bastian2003-4/HRV-monitor-based-on-Pulsesensor/assets/115745326/a668fbb7-9d75-4377-aa67-afc66b8ddc40)
